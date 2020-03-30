@@ -1,15 +1,8 @@
 # API universidad
-
 ## Objetivo
 
-Esta aplicación web permite mediante la URL acceder a la información almacenda en un archivo CSV.
-
-Los datos son mostrados en formato JSON
+Esta aplicacion web permite mediante la url acceder a la informacion 
+Los datos son formateados en JSON 
 
 ## Acciones
-
-* get - Obtiene todos los registros
-* put - Inserta un nuevo registro
-* delele - Borra un registro
-* search - Busca un registro
-* update - Actualiza un registro
+get obtener todos los registros
